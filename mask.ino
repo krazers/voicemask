@@ -1,6 +1,8 @@
 //code by Tyler Glaiel
 //for this mask: https://twitter.com/TylerGlaiel/status/1265035386109128704
 
+//You will need to also include these libraries in the Arduino IDE
+//see here: https://www.arduino.cc/en/guide/libraries
 #include <Adafruit_NeoPixel.h>
 #include <Adafruit_NeoMatrix.h>
 #include <gamma.h>
