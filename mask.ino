@@ -148,16 +148,16 @@ void loop() {
     if(millis() > smiletimer) smiling = false;
 
     if(smiling){
-        drawImage(mouth_smile);
+        drawImage((short)mouth_smile);
     } else if(vol < 200){
-        drawImage(mouth_0);
+        drawImage((short)mouth_0);
     } else if(vol < 250){
-        drawImage(mouth_1);
+        drawImage((short)mouth_1);
     } else if(vol < 350){
-        drawImage(mouth_2);
+        drawImage((short)mouth_2);
     } else if(vol < 450){
-        drawImage(mouth_3);
+        drawImage((short)mouth_3);
     } else {
-        drawImage(mouth_4);
+        drawImage((short)mouth_4);
     }
 } 
