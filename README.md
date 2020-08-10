@@ -17,6 +17,7 @@ Parts:
 - [9V Rechargeable Battery](https://www.amazon.com/gp/product/B07VJL5D4K/ref=ppx_yo_dt_b_asin_title_o08_s03?ie=UTF8&psc=1)
 - [9V Battery Clip Connector](https://www.amazon.com/gp/product/B00HG8BJWM/ref=ppx_yo_dt_b_asin_title_o08_s03?ie=UTF8&psc=1)
 
+Steps:
 1) Follow the instructions provided by Tyler's project found here: https://medium.com/@tglaiel/how-to-make-a-voice-activated-led-facemask-diy-guide-b300bc146f38
 
 2) Since the microphone is built into the Nano 33 BLE Sense, you can skip the steps in Tyler's instructions to connect the micophone. All other steps will be the same
