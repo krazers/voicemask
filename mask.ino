@@ -29,6 +29,7 @@ int16_t microphoneRMSValue;
  * can be computed. */
 bool microphoneBufferReadyFlag;
 
+/* Mouth closed: The number indicates the index to use for the color pallet defined in step() */
 const PROGMEM uint8_t mouth_0[] = {
     0,0,0,0,0,0,0,0,
     0,0,0,0,0,0,0,0,
@@ -40,6 +41,7 @@ const PROGMEM uint8_t mouth_0[] = {
     0,0,0,0,0,0,0,0
 };
 
+/* Mouth fully opened: The number indicates the index to use for the color pallet defined in step() */
 const PROGMEM uint8_t mouth_4[] = {
     0,0,1,1,1,1,0,0,
     0,1,0,0,0,0,1,0,
@@ -84,6 +86,7 @@ const PROGMEM uint8_t mouth_1[] = {
     0,0,0,0,0,0,0,0
 };
 
+/* Smile with tongue sticking out: The number indicates the index to use for the color pallet defined in step() */
 const PROGMEM uint8_t mouth_smile[] = {
     0,0,0,0,0,0,0,0,
     0,0,0,0,0,0,0,0,
