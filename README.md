@@ -16,6 +16,7 @@ Parts:
 - [Arduino Nano 33 BLE Sense](https://www.amazon.com/gp/product/B07WV5GF17/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1)
 - [9V Rechargeable Battery](https://www.amazon.com/gp/product/B07VJL5D4K/ref=ppx_yo_dt_b_asin_title_o08_s03?ie=UTF8&psc=1)
 - [9V Battery Clip Connector](https://www.amazon.com/gp/product/B00HG8BJWM/ref=ppx_yo_dt_b_asin_title_o08_s03?ie=UTF8&psc=1)
+- 330 ohm resister
 
 Steps:
 1) Follow the instructions provided by Tyler's project found here: https://medium.com/@tglaiel/how-to-make-a-voice-activated-led-facemask-diy-guide-b300bc146f38
