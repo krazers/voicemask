@@ -1,6 +1,7 @@
 //based of code by Tyler Glaiel
-//for this mask: https://twitter.com/TylerGlaiel/status/1265035386109128704
+//original mask: https://twitter.com/TylerGlaiel/status/1265035386109128704
 //modified for Nano BLE Sense by Chris Azer
+//for this mask: https://github.com/krazers/voicemask
 
 //You will need to also include these libraries in the Arduino IDE
 //see here: https://www.arduino.cc/en/guide/libraries
